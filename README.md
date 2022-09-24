@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gouvis Panagiotis</h1>
 <h3 align="center">A frontend developer from Greece</h3>
 <img align="right" alt="Coding gif" width = "400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
-- 🔭 I’m currently working on [3D Commerce](https://github.com/gouvisPan/e-commerce)
+🔭 I’m currently working on [3D Commerce](https://github.com/gouvisPan/e-commerce)
 
-- 🌱 I’m currently learning **React, Typescript**
+🌱 I’m currently learning **React, Typescript**
 
-- 💬 Ask me about **Android, Kotlin, Js**
+💬 Ask me about **Android, Kotlin, Js**
 
-- 📫 How to reach me **gouvisPan@gmail.com**
+📫 How to reach me **gouvisPan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
