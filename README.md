@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouvis Panagiotis</h1>
-<h3 align="center">A frontend developer from Greece</h3>
+<h3 align="center">A passionate frontend developer from Greece</h3>
 <img align="right" alt="Coding gif" width = "400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
 🔭 I’m currently working on [3D Commerce](https://github.com/gouvisPan/e-commerce)
 
