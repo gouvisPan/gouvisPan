@@ -3,9 +3,9 @@
 <img align="right" alt="Coding gif" width = "400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
 🔭 I’m currently working on [3D Commerce](https://github.com/gouvisPan/e-commerce)
 
-🌱 I’m currently learning **MongoDB, Express, NodeJS, Typescript**
+🌱 I’m currently learning **MongoDB, Express, NodeJS, React-Native**
 
-💬 Ask me about **React, Redux, Javascript Android, Kotlin**
+💬 Ask me about **React, Redux, Javascript, Typescript, Android, Kotlin**
 
 📫 How to reach me **gouvisPan@gmail.com**
 
